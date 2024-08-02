@@ -1,4 +1,5 @@
-import com.spring_cloud.resilience4j.sample.Product;
+package com.spring_cloud.resilience4j.sample;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
